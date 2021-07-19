@@ -24,7 +24,7 @@ const limitqnt = 9999
 const delayantispamcmd = 5
 //tempo de delay do antispamcmd (medido por segundos)
 
-const msgwelcomeimg = (numero, groupname) => {
+const msgwelcomeimg = (numero) => {
     return `Seja bem-vindo ${numero}`
 }
 //Texto de boas vindas na imagem quando welcome esta ativado
