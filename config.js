@@ -1,4 +1,4 @@
-const ownerNumber = ["557388843631@s.whatsapp.net"] 
+const ownerNumber = ["557388843631@s.whatsapp.net","559288234653@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '557388843631' 
@@ -75,7 +75,7 @@ const blockedcmdmsg = '*Não tenho comandos para você usar😢*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = ''
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
@@ -87,7 +87,7 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra Membro comum, O ban está próximo...'
+const banmsglink = ''
 // mensagem de ban no antilink
 
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk🤡'
