@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["557388843631@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '557388843631' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -21,7 +21,7 @@ const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 
 const limitqnt = 9999
 
-const delayantispamcmd = 3
+const delayantispamcmd = 5
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
@@ -70,7 +70,7 @@ const prefix = '!'
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*Não tenho comandos para você usar😢*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
@@ -90,7 +90,7 @@ const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 const banmsglink = 'Corra Membro comum, O ban está próximo...'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk🤡'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -122,7 +122,7 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 const msgerr = 'Deu erro, tente novamente :/'
 // mensagem de erro
 
-const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
+const notregister = `*Não tenho comandos para você usar😢*`
 
 // MENSAGENS DE AUTOREPLY
 
