@@ -25,7 +25,7 @@ const delayantispamcmd = 5
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nSeja ativo e envie figurinhas ou você será banido!`
+    return `Seja bem-vindo ${numero}\n\nOlhe a descrição!`
 }
 //Texto de boas vindas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
