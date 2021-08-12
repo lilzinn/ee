@@ -9,13 +9,13 @@ GREEN="\033[1;32m"
 RED='\033[1;31m'
 NC='\033[0m'
 
-echo $YELLOW"Você tem certeza que deseja atualizar o brizas orion? [s/n]"
+echo $YELLOW"Você tem certeza que deseja atualizar o bot? [s/n]"
 read -p "> " opts
 
 if [ $opts = "s" ]; then
 
 clear
-echo $YELLOW"Atualizando o brizas orion, aguarde..."
+echo $YELLOW"Atualizando o bot, aguarde..."
 git clone https://github.com/lilzinn/ee > /dev/null 2> /dev/null
 
 cd ee
@@ -25,10 +25,10 @@ rm -rf ee
 npm i
 
 clear
-echo $GREEN"Brizas orion atualizado com sucesso!!"
+echo $GREEN"Bot atualizado com sucesso!!"
 
 elif [ $opts = "n"]; then
     clear
-    echo $RED"Atualização do brizas orion abortada"
+    echo $RED"Atualização do bot abortada"
     exit
 fi
