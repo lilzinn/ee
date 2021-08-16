@@ -1,7 +1,7 @@
 const ownerNumber = ["557388843631@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557388843631' 
+const OriginalOwner = '55738884363' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
