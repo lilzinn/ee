@@ -1,5 +1,5 @@
 #!bin/bash
-pkg update -
+pkg update -y
 pkg upgrade -y
 
 CYAN="\033[1;36m"
