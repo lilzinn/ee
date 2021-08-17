@@ -1,4 +1,4 @@
-const ownerNumber = ["557388843631@s.whatsapp.net"] 
+const ownerNumber = ["557388843631@s.whatsapp.net","557388585297@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '557388843631' 
