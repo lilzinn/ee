@@ -1,4 +1,4 @@
-const ownerNumber = ["557388843631@s.whatsapp.net","557388585297@s.whatsapp.net"] 
+const ownerNumber = ["557388585297@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '557388843631' 
@@ -12,18 +12,18 @@ var gimagenotregister = false
 var sgooglenotregister = false
 // quando não há comando registrado o bot procura uma pesquisa no google
 
-const antinewchatmsg = '*MEU PV NÃO ESTÁ LIBERADO PARA VOCÊ...🚫*'
+const antinewchatmsg = 'ㅤ'
 //mensagem do antinewchat
 
 const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 // link direto da url do audio
 
-const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
+const antipvmsg = 'ㅤ'
 //mensagem do antipv
 
 const limitqnt = 9999
 
-const delayantispamcmd = 5
+const delayantispamcmd = 20
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
@@ -77,7 +77,7 @@ const blockedcmdmsg = '*COMANDO NÃO EXISTE🚫*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Vacilow, bye😘*'
+const banmsgtype = 'ㅤ'
 // mensagem de ban no anti tipos de mensagem
 
 const ativohelp = `O sistema de contagem de mensagens é por grupo e consiste em rankear, listar, remover pessoas de acordo
@@ -100,7 +100,7 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = '*Vacilow, bye😘*'
+const banmsglink = 'ㅤ'
 // mensagem de ban no antilink
 
 const adminmsglink = 'Tô de olho hein admin😑'
