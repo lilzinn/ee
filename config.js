@@ -1,7 +1,7 @@
 const ownerNumber = ["557388585297@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557388843631' 
+const OriginalOwner = '557388585297' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
@@ -77,7 +77,7 @@ const blockedcmdmsg = '*COMANDO NÃO EXISTE🚫*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = 'ㅤ'
+const banmsgtype = '.'
 // mensagem de ban no anti tipos de mensagem
 
 const ativohelp = `O sistema de contagem de mensagens é por grupo e consiste em rankear, listar, remover pessoas de acordo
