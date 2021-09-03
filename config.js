@@ -77,7 +77,7 @@ const blockedcmdmsg = '*COMANDO NÃO EXISTE🚫*'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '.'
+const banmsgtype = 'ㅤ'
 // mensagem de ban no anti tipos de mensagem
 
 const ativohelp = `O sistema de contagem de mensagens é por grupo e consiste em rankear, listar, remover pessoas de acordo
