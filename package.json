@@ -1,5 +1,5 @@
 {
-  "name": "brizas-bot",
+  "name": "kk",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "BrizasBot",
+  "author": "kk",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -57,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/lilzinn/ee.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/lilzinn/ee/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/lilzinn/ee#readme"
 }
