@@ -3,7 +3,7 @@
 ---
 # SITE FAVORITO 🍑
 ```
-- [xvideos.com](xvideos.com)
+- [xvideos.com](#xvideos.com)
 
 ---
 # 🔄 Atualizar automaticamente
