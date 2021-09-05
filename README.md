@@ -1,6 +1,3 @@
-# CRIPTOGRAFADO 🍀
-<h1 align="center">
-
 # SITE FAVORITO 🍑
 
 https://xvideos.com
