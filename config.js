@@ -60,7 +60,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 //Link direto da imagem de fundo das despedidas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
+const apikeyimgbb = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
 const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
