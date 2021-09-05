@@ -1,7 +1,9 @@
 # CRIPTOGRAFADO 🍀
 <h1 align="center">
-
-- [XVIDEOS](#xvideos.com)
+---
+# SITE FAVORITO 🍑
+```
+- [xvideos.com](xvideos.com)
 
 ---
 # 🔄 Atualizar automaticamente
