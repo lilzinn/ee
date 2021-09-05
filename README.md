@@ -4,7 +4,6 @@
 # SITE FAVORITO 🍑
 
 https://xvideos.com
-```
 ---
 # 🔄 Atualizar automaticamente
 ```
