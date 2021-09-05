@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["557388585297@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '557388585297' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
@@ -12,18 +12,18 @@ var gimagenotregister = false
 var sgooglenotregister = false
 // quando não há comando registrado o bot procura uma pesquisa no google
 
-const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
+const antinewchatmsg = 'ㅤ'
 //mensagem do antinewchat
 
 const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 // link direto da url do audio
 
-const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
+const antipvmsg = 'ㅤ'
 //mensagem do antipv
 
 const limitqnt = 9999
 
-const delayantispamcmd = 3
+const delayantispamcmd = 20
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
@@ -66,18 +66,18 @@ const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '-' 
 // prefixo
 
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*COMANDO NÃO EXITE🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = 'ㅤ'
 // mensagem de ban no anti tipos de mensagem
 
 const ativohelp = `O sistema de contagem de mensagens é por grupo e consiste em rankear, listar, remover pessoas de acordo
@@ -100,10 +100,10 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra Membro comum, O ban está próximo...'
+const banmsglink = 'ㅤ'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Tô de olho hein admin😑'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -135,7 +135,7 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 const msgerr = 'Deu erro, tente novamente :/'
 // mensagem de erro
 
-const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
+const notregister = `*COMANDO NÃO EXISTE🚫*`
 
 // MENSAGENS DE AUTOREPLY
 
