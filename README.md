@@ -1,8 +1,7 @@
 # CRIPTOGRAFADO 🍀
 <h1 align="center">
 
-- [Instalação](#⬇️-Instalação)
-- [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
+- [XVIDEOS](#xvideos.com)
 
 ---
 # 🔄 Atualizar automaticamente
